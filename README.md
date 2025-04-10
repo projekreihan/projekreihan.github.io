@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://www.youtube.com/watch?v=QYQV5yGU5aE" alt="Logo Proyek" width="150">
-  <h1>[NAMA PROYEK ANDA]</h1>
+  <h1>[projek kapal laut]</h1>
   <p>
-    [Slogan singkat atau deskripsi proyek Anda (maksimal 1-2 kalimat)]
+    [singkat saja paham)]
   </p>
   <p>
     <a href="[LINK KE DOKUMENTASI]"><strong>Baca Dokumentasi</strong></a>
@@ -15,21 +15,19 @@
 
 <br>
 
-## Tentang Proyek
+## Tentang Projek
 
-[Deskripsi lebih detail tentang proyek Anda. Jelaskan apa yang proyek ini lakukan, masalah apa yang dipecahkannya, dan fitur-fitur utamanya.]
+[intine aku gabut.]
 
 ## Fitur Utama
 
-- Fitur 1: [Deskripsi singkat fitur 1]
-- Fitur 2: [Deskripsi singkat fitur 2]
-- ...
+entahlah
 
 ## Cara Penggunaan
 
-[Jelaskan langkah-langkah dasar untuk menggunakan proyek Anda. Sertakan contoh kode jika perlu.]
+[pokok e digawe.]
 
 ## Instalasi
 
-[Jelaskan langkah-langkah untuk menginstal proyek Anda.]
+[adekku ae isok.]
 
