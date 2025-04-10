@@ -1,0 +1,45 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+#movieList {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.movieItem {
+    width: 200px;
+    margin: 10px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.movieItem img {
+    width: 100%;
+    height: auto;
+}
+
+#moviePlayer {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: black;
+    padding: 20px;
+}
+
+#videoPlayer {
+    width: 640px;
+    height: 360px;
+}
