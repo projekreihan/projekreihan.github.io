@@ -15,6 +15,36 @@ const movies = [
         poster: 'bidaah.jpg',
         video: 'tes.mp4'
     },
+    {
+        title: 'bidaah eps 3',
+        poster: 'bidaah.jpg', // Ganti dengan path gambar poster
+        video: 'tes.mp4' // Ganti dengan path video film
+    },
+    {
+        title: 'bidaah eps 4',
+        poster: 'bidaah.jpg',
+        video: 'tes.mp4'
+    },
+    {
+        title: 'bidaah eps 5',
+        poster: 'bidaah.jpg', // Ganti dengan path gambar poster
+        video: 'tes.mp4' // Ganti dengan path video film
+    },
+    {
+        title: 'bidaah eps 6',
+        poster: 'bidaah.jpg',
+        video: 'tes.mp4'
+    },
+    {
+        title: 'bidaah eps 7',
+        poster: 'bidaah.jpg', // Ganti dengan path gambar poster
+        video: 'tes.mp4' // Ganti dengan path video film
+    },
+    {
+        title: 'bidaah eps 8',
+        poster: 'bidaah.jpg',
+        video: 'tes.mp4'
+    },
     // Tambahkan data film lainnya di sini
 ];
 
